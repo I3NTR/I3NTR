@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function () {
 // Key
 let eventKey = localStorage.getItem('eventKey') || '`'
 let eventKeyRaw = localStorage.getItem('eventKeyRaw') || '`'
-let pLink = localStorage.getItem('pLink') || 'https://classroom.google.com/'
+let pLink = localStorage.getItem('pLink') || 'https://moodle.nvtc.edu.bh/'
 
 document.addEventListener('DOMContentLoaded', function () {
   document.getElementById('eventKeyInput').value = eventKeyRaw
