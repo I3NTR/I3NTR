@@ -164,10 +164,9 @@ document.addEventListener('DOMContentLoaded', function (event) {
 })
 
 let splashtext = [
-  'Over 8 Million Users since 2023',
   'Fastest growing proxy server',
   'Made by M7RB',
-  'Check out discord.gg/interstellar :)',
+  'Check out discord.gg/umu :)',
   'Thanks for using the site',
   'Subscribe to us on YouTube (@M7RB)',
   'Subscribe to my Youtube (@M7RB)',
