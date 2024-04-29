@@ -165,11 +165,11 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
 let splashtext = [
   'Fastest growing proxy server',
-  'Made by M7RB',
+  'Made by 3NTR',
   'Check out discord.gg/umu :)',
   'Thanks for using the site',
-  'Subscribe to us on YouTube (@M7RB)',
-  'Subscribe to my Youtube (@M7RB)',
+  'Subscribe to us on YouTube (@3NTR)',
+  'Subscribe to my Youtube (@3NTR)',
   'Check out the settings page',
 ]
 
